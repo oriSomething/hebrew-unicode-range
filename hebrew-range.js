@@ -1,3 +1,10 @@
+/**
+ * Unicode - Hebrew letters range
+ * ==============================
+ *
+ * @author Ori Livni (@orisomething)
+ */
+
 module.exports = {
     /** Cantillation marks */
     "0591": "atnah",

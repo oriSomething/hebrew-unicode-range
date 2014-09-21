@@ -1,3 +1,9 @@
+/**
+ * Unicode - Hebrew letters range
+ * ==============================
+ *
+ * @author Ori Livni (@orisomething)
+ */
 /* jshint node: true */
 'use strict';
 
