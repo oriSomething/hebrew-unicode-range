@@ -95,6 +95,11 @@ module.exports = {
     "05f4": "punctuation gershayim",
     /** Currency Symbols */
     "20aa": "new sheqel",
+    /** Hebrew letterlike math symbols */
+    "2135": "alef symbol", /** 05d0 */
+    "2136": "bet symbol", /** 05d1 */
+    "2137": "gimel symbol", /** 05d2 */
+    "2138": "dalet symbol", /** 05d3 */
     /** Hebrew presentation forms */
     "fb1d": "yod with hiriq", /* 05d9 + 05b4 */
     "fb1e": "judeo-spanish varika",
@@ -141,5 +146,5 @@ module.exports = {
     "fb4c": "bet with rafe", /* 05d1 + 05bf */
     "fb4d": "kaf with rafe", /* 05db + 05bf */
     "fb4e": "pe with rafe", /* 05e4 + 05bf */
-    "fb4f": "alef lamed" /* 05d0 ~ 05dc */
+    "fb4f": "alef lamed", /* 05d0 ~ 05dc */
 };
